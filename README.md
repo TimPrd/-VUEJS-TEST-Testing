@@ -12,10 +12,10 @@ It is created with VUEJS2 and Semantic Ui
 4. exec 'npm i'
 5. exec 'npm run dev'
 
-# serve with hot reload at localhost:8080
+## Dev mode => localhost:8080
 npm run dev
 
-# build for production with minification
+## Build mode for production
 npm run build
 
 
