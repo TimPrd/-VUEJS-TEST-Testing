@@ -40,3 +40,8 @@ What have been done :
   - [x] PUT  /posts/1
   - [x] DELETE /posts/1  
 - [ ] Using vuex (being done currently)
+
+
+#Pictures
+
+![alt tag](https://github.com/TimPrd/VueJs2/blob/master/Posts.png)
