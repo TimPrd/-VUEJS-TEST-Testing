@@ -45,3 +45,10 @@ What have been done :
 #Pictures
 
 ![alt tag](https://github.com/TimPrd/VueJs2/blob/master/Posts.png)
+(Add a post and display all others)
+------------------------------------------------------------------
+![alt tag](https://github.com/TimPrd/VueJs2/blob/master/Modification.png)
+(Edit function)
+------------------------------------------------------------------
+![alt tag](https://github.com/TimPrd/VueJs2/blob/master/Commentaires.png)
+(Comments)
