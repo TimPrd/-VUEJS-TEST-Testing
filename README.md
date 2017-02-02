@@ -45,8 +45,8 @@ What have been done :
 #Pictures
 
 ![alt tag](https://github.com/TimPrd/VueJs2/blob/master/Posts.png)
-<figcaption align="center"> Add a post and display all others </figcaption>
+<p align="center"> Add a post and display all others </p>
 ![alt tag](https://github.com/TimPrd/VueJs2/blob/master/Modification.png)
-<figcaption align="center">Edit function</figcaption>
+<p align="center">Edit function</p>
 ![alt tag](https://github.com/TimPrd/VueJs2/blob/master/Commentaires.png)
-*<figcaption align="center">Comments</figcaption>
+<p align="center">Comments</p>
